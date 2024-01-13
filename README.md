@@ -4,7 +4,7 @@
 ###  Dataset : https://huggingface.co/datasets/samsum
 ###  Model : https://huggingface.co/google/pegasus-cnn_dailymail
 
-### Colab Notbook: https://colab.research.google.com/drive/1uz3hqpAcveLimLUbDAHfQJzvujfjzt0q?usp=sharing
+### Colab Notebook: https://colab.research.google.com/drive/1uz3hqpAcveLimLUbDAHfQJzvujfjzt0q?usp=sharing
 
 
 ## Workflows
